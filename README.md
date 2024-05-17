@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @THPavellpu
 - 👀 I’m interested in Appdevelopment and Webdevelopment
-- 🌱 I’m currently learning c++ & DSA
+- 🌱 I’m currently learning Java & DSA
 
 - 📫 How to reach me ...tanvirhossenpavel2018@gmail.com
 
