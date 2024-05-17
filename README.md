@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @THPavellpu
-- 👀 I’m interested in Sports and WOrld Politics
+- 👀 I’m interested in Appdevelopment and Webdevelopment
 - 🌱 I’m currently learning c++ & DSA
 
 - 📫 How to reach me ...tanvirhossenpavel2018@gmail.com
