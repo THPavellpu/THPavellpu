@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @THPavellpu
-- 👀 I’m interested in Appdevelopment and Webdevelopment
-- 🌱 I’m currently learning Java & DSA
+# 👋 Hi, I'm Tanvir Hossen
 
-- 📫 How to reach me ...tanvirhossenpavel2018@gmail.com
+🎓 CSE Student | 💻 Full Stack Developer | 🧠 AI Enthusiast
 
-<!---
-THPavellpu/THPavellpu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🔧 Tech Stack
+- 💻 Languages: Python, Java, JavaScript
+- 🌐 Web: Django, FastAPI, HTML, CSS, React
+- 🛢️ Databases: MySQL, SQLite
+- ☁️ Cloud: Firebase, Vercel, Netlify
+
+---
+
+## 🧩 My Projects
+Here are some of my highlighted works:
+
+- 🔗 [Cricket Auction App](https://github.com/THPavellpu/Cricket-Auction-Application) — Django-based cricket auction platform
+- 🔗 [Blog Website](https://github.com/your-blog-repo) — Personal blog using Django & Bootstrap
+- 🔗 [MCQ Web App](https://github.com/your-mcq-repo) — Full stack app for managing MCQs and tests
+
+---
+
+## 📊 GitHub Stats
+![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=THPavellpu&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=THPavellpu&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+- 🌐 [Portfolio Website](https://your-portfolio.com)
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
+- ✉️ Email: your-email@example.com
