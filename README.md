@@ -29,6 +29,6 @@ Here are some of my highlighted works:
 ---
 
 ## 📫 Connect With Me
-- 🌐 [Portfolio Website](https://your-portfolio.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- ✉️ Email: your-email@example.com
+- 🌐 [Portfolio Website](http://tinyurl.com/rasduinopy)
+- 💼 [LinkedIn](www.linkedin.com/in/tanvir-pavel)
+- ✉️ Email: tanvirhossenpavel2018@gmail.com
