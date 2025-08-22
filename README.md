@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Tanvir Hossen
+# 👨‍🎓 Hi, I'm Tanvir Hossen
 
-🎓 CSE Student | 💻 Full Stack Developer | 🧠 AI Enthusiast
+🎓 CSE Student | 💻 Full Stack Developer | 🐍 Django
 
 ---
 
 ## 🔧 Tech Stack
-- 💻 Languages: Python, Java, JavaScript
+- 💻 Languages: Python, Java, JavaScript, C++
 - 🌐 Web: Django, FastAPI, HTML, CSS, React
 - 🛢️ Databases: MySQL, SQLite
 - ☁️ Cloud: Firebase, Vercel, Netlify
