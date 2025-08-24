@@ -1,4 +1,4 @@
-# 👨‍🎓 Hi, I'm Tanvir Hossen
+# 👨‍🎓 Hi, I'm Tanvir Hossen Pavel
 
 🎓 CSE Student | 💻 Full Stack Developer | 🐍 Django
 
