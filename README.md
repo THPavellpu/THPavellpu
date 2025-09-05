@@ -17,7 +17,7 @@
 Here are some of my highlighted works:
 
 - 🔗 [Cricket Auction App](https://github.com/THPavellpu/Cricket-Auction-Application) — Django-based cricket auction platform
-- 🔗 [Blog Website]([https://github.com/](https://github.com/THPavellpu/Portfolio.git)) — Portfolio website
+- 🔗 [Blog Website](https://github.com/THPavellpu/Portfolio.git) — Portfolio website
 - 🔗 [MCQ Web App](https://github.com/your-mcq-repo) — Full stack app for managing MCQs and tests
 
 ---
