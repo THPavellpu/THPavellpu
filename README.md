@@ -1,14 +1,15 @@
 # 👨‍🎓 Hi, I'm Tanvir Hossen Pavel
 
-🎓 CSE Student | 💻 Full Stack Developer | 🐍 Django
+🎓 CSE | IOT | Web Developer | 🐍 Django
 
 ---
 
 ## 🔧 Tech Stack
 - 💻 Languages: Python, Java, JavaScript, C++
-- 🌐 Web: Django, FastAPI, HTML, CSS, React
+- 🛜 IOT: Arduino, NodeMCU, Raspberrypy, Sensors
+- 🌐 Web: Django, RestAPI, HTML, CSS
 - 🛢️ Databases: MySQL, SQLite
-- ☁️ Cloud: Firebase, Vercel, Netlify
+- ☁️ Cloud: Firebase, Netlify
 
 ---
 
