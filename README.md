@@ -1,11 +1,11 @@
 # 👨‍🎓 Hi, I'm Tanvir Hossen Pavel
 
-🎓 CSE | IOT | Web Developer | 🐍 Django
+🎓 CSE | IOT | Web Developer | 🐍 Django | Android Development(Kotlin)
 
 ---
 
 ## 🔧 Tech Stack
-- 💻 Languages: Python, Java, JavaScript, C++
+- 💻 Languages: Python, Java, JavaScript, C++, Kotlin
 - 🛜 IOT: Arduino, NodeMCU, Raspberrypy, Sensors
 - 🌐 Web: Django, RestAPI, HTML, CSS
 - 🛢️ Databases: MySQL, SQLite
@@ -15,7 +15,7 @@
 
 ## 🧩 My Projects
 Here are some of my highlighted works:
-
+- 🔗 [Blog Website](https://github.com/THPavellpu/PG_Hunter.git) — PGHunter
 - 🔗 [Cricket Auction App](https://github.com/THPavellpu/Cricket-Auction-Application) — Django-based cricket auction platform
 - 🔗 [Blog Website](https://github.com/THPavellpu/Portfolio.git) — Portfolio website
 - 🔗 [MCQ Web App](https://github.com/your-mcq-repo) — Full stack app for managing MCQs and tests
