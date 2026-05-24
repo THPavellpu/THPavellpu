@@ -7,8 +7,8 @@
 ## 🔧 Tech Stack
 - 💻 Languages: Python, Java, JavaScript, C++, Kotlin
 - 🛜 IOT: Arduino, NodeMCU, Raspberrypy, Sensors
-- 🌐 Web: Django, RestAPI, HTML, CSS
-- 🛢️ Databases: MySQL, SQLite
+- 🌐 Web: Django, RestAPI
+- 🛢️ Databases: Database Design and SQL Server, Postgres
 - ☁️ Cloud: Firebase, Netlify
 
 ---
