@@ -1,6 +1,6 @@
 # Hi there, I'm Tanvir Hossen Pavel 👋
 
-### 🚀 CSE Student | Backend Developer | IoT Enthusiast | Android Developer
+### 🚀 CSE Student | Web Developer(Django + React) | IoT Enthusiast | Android Developer
 
 Passionate about building scalable web applications, IoT solutions, and mobile applications. Currently focused on Backend Development with Django REST Framework and exploring modern software engineering practices.
 
